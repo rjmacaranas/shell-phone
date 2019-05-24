@@ -1,5 +1,7 @@
 # Shell Scripting Basics
 
+Automating tasks for cli
+
 
 ## Script Descriptions
 
