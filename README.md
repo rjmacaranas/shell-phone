@@ -33,8 +33,8 @@ git push
 ```shell
 sshpass -p 'yourPasswordHere' ssh rmacaran@unix1.csc.calpoly.edu
 ```
-- junit.sh: compiles all java files in working directory and runs JUnit tests
+- junit.sh: compiles all java files in working directory and runs JUnit tests on all files named TestCases.java
 ```shell
 javac *.java
-java 
+java org.junit.runner.JUnitCore TestCases
 ```
