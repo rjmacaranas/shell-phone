@@ -8,7 +8,7 @@
 ## Introduction <a name="intro"></a>
 Shell scripting can make life a heck of a lot easier. From automating tasks like
 uploading things to GitHub to simply navigating to a certain directory, shell
-scripts have got your back.
+scripts have got your back. Shell scripts are essentially bite-size programs built using commands available in your shell environment.
 
 ## Navigation <a name="nav"></a>
 - The [cd]() command which is used to change directories requires a different
