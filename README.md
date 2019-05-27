@@ -1,11 +1,16 @@
 # Shell Scripting Basics
 
+### Contents
+1. [Introduction](#intro)
+2. [Navigation](#nav)
+3. [Script Descriptions](#scripts)
+
+## Introduction <a name="intro"></a>
 Shell scripting can make life a heck of a lot easier. From automating tasks like
 uploading things to GitHub to simply navigating to a certain directory, shell
 scripts have got your back.
 
-
-# Navigation
+## Navigation <a name="nav"></a>
 - The [cd]() command which is used to change directories requires a different
 path in the shell and so it may be easier to create navigation shortcuts by
 editing your .bash_profile. For example:
@@ -14,8 +19,7 @@ editing your .bash_profile. For example:
 alias projects='cd ~/Desktop/projects'
 ```
 
-
-## Script Descriptions
+## Script Descriptions <a name="scripts"></a>
 
 - helloWorld.sh: basic script that echos 'hello, world!'
 ```shell
