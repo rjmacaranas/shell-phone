@@ -30,5 +30,11 @@ git commit -m $message
 git push
 ```
 - cplogin.sh: automates ssh key login, requires a local installation of sshpass
+```shell
+sshpass -p 'yourPasswordHere' ssh rmacaran@unix1.csc.calpoly.edu
+```
 - junit.sh: compiles all java files in working directory and runs JUnit tests
-
+```shell
+javac *.java
+java 
+```
