@@ -1,4 +1,4 @@
-# Shell Scripting Basics
+# Shell Scripting Basics :shell:
 
 ### Contents
 1. [Introduction](#intro)
