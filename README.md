@@ -11,7 +11,7 @@ uploading things to GitHub to simply navigating to a certain directory, shell
 scripts have got your back. Shell scripts are essentially bite-size programs built using commands available in your shell environment.
 
 ## Navigation <a name="nav"></a>
-- The [cd]() command which is used to change directories requires a different
+- The cd command which is used to change directories requires a different
 path in the shell and so it may be easier to create navigation shortcuts by
 editing your .bash_profile. For example:
 
